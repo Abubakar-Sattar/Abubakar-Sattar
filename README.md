@@ -80,4 +80,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AbubakarSattar-dev">
 </a>
-<a href="https://github.com/AbubakarSattar-dev?tab=followers"><img src="https://img.shields.io/github/followers/AbubakarSattar-dev?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Abubakar-Sattar?tab=followers"><img src="https://img.shields.io/github/followers/Abubakar-Sattar?label=Followers&style=social" alt="GitHub Badge"></a>
