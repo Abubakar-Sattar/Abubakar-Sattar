@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abubakar Sattar</h1>
-<h3 align="center">GitHub Campus Expert | Microsoft Student Learn Ambassador | IBM Certified Python Developer | Web Developer | Marketing Lead at GDSC.</h3>
+<h3 align="center">Software Engineer at UpStart | GitHub Campus Expert | Microsoft Learn Student Amb.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **[ETL Pipeline on AWS EMR Cluster
 ](https://aws.amazon.com/datapipeline/details/)**
 
-- 🌱 I’m currently learning **Data Engineering.**
+- 🌱 I’m currently learning **Spring Boot.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **abubakersattar4@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I'm a national-chess player :)**
 
 ## 🚀 Languages and Tools:
 
